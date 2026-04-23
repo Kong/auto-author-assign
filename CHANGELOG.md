@@ -1,5 +1,23 @@
 # Changelog
 
+## [3.0.1](https://github.com/Kong/auto-author-assign/compare/v3.0.1...v3.0.1) (2026-04-23)
+
+
+### Features
+
+* Add `npm run package` instead of `build` ([#130](https://github.com/Kong/auto-author-assign/issues/130)) ([972720f](https://github.com/Kong/auto-author-assign/commit/972720f0403d2873e807f16e350c5b0b1be4dda3))
+
+
+### Bug Fixes
+
+* use new endpoints released with actions/github v5 ([4706261](https://github.com/Kong/auto-author-assign/commit/4706261eaada024654e7b194b96564547a66388e))
+
+
+### Miscellaneous Chores
+
+* release 3.0.0 ([d100cef](https://github.com/Kong/auto-author-assign/commit/d100ceff34d1e9cd2c4ea5b8055922f1409f3068))
+* release 3.0.1 ([718d4ed](https://github.com/Kong/auto-author-assign/commit/718d4ed5349747d47952ae841ae03fcbdd74ebea))
+
 ## [3.0.1](https://github.com/toshimaru/auto-author-assign/compare/v3.0.0...v3.0.1) (2025-12-25)
 
 
